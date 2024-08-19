@@ -1,5 +1,5 @@
 <h2> Hi, I'm Den Gonzalez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FEfrunEvdi&psig=AOvVaw2cUZCC8ZckiUyDI9uM5OhO&ust=1724173312755000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD51KHEgYgDFQAAAAAdAAAAABAE" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
 <p><em>Software Enginner at <a href="(https://www.unaj.edu.ar/)">Universidad Arturo Jauretche</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
