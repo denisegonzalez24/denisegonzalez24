@@ -3,7 +3,7 @@
 
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a>
 
-<p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.unaj.edu.ar/wp-content/uploads/2015/08/UNAJ_RGB-01.jpg" width="30"></br>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="30"> 
+<p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.unaj.edu.ar/wp-content/uploads/2015/08/UNAJ_RGB-01.jpg" width="100"></br>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="100"> 
 </em></p>
 
 
@@ -13,7 +13,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```python
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
