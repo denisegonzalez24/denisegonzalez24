@@ -13,18 +13,72 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Presentación\n",
+    "### Pronombres: ella/her\n",
+    "### Desarrolladora Full Stack"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Lenguajes de programación con los que trabajo\n",
+    "lenguajes = ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Herramientas y tecnologías\n",
+    "herramientas = ['React', 'Redux', 'Node.js', 'Storybook', 'Styled-Components', 'Jest', 'Docker']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Arquitecturas con las que tengo experiencia\n",
+    "arquitectura = ['microservicios', 'event-driven', 'patrón de sistemas de diseño']"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Comunidades tecnológicas donde participo\n",
+    "tech_communities = {\n",
+    "    'coorganizadora': 'AfroPython',\n",
+    "    'speaker': 'Latinity',\n",
+    "    'mentora': 'RailsGirls POA'\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Reto actual\n",
+    "Estoy realizando el desafío #100DaysOfCode, enfocado en React y Typescript."
+   ]
+  }
+ ]
 }
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
