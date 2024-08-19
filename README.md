@@ -14,9 +14,8 @@
 
 
 ```python
-# Lenguajes de programación con los que trabajo
-lenguajes = ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'Python', 'Java']
-
+# My skills
+lenguajes = ['python', 'C#', 'Sql', 'NoSql','docker','hadoop','power bi']
 
 ```
 
