@@ -3,8 +3,8 @@
 
 
 <h3> <p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="40"></p></h3>
-<h3> <p>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a> <img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="80"> 
-</p></h3>
+<h3> Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a> <img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="80"> 
+</h3>
 
 
 
