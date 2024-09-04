@@ -1,5 +1,5 @@
 <h2> Hi, I'm Den Gonzalez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="260">
 
 
 <p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> </br> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="40"></p>
