@@ -2,8 +2,8 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
 
 
-<p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.unaj.edu.ar/wp-content/uploads/2015/08/UNAJ_RGB-01.jpg" width="50"></p>
-<p></br>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="60"> 
+<p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.unaj.edu.ar/wp-content/uploads/2015/08/UNAJ_RGB-01.jpg" width="70"></p>
+<p>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="70"> 
 </em></p>
 
 
