@@ -3,7 +3,7 @@
 
 
 <p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.unaj.edu.ar/wp-content/uploads/2015/08/UNAJ_RGB-01.jpg" width="70"></p>
-<p>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="70"> 
+<p>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="80"> 
 </p>
 
 
