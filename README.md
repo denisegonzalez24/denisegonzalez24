@@ -15,7 +15,7 @@
 
 ```python
 # My skills
-tech = ['python', 'C#', 'Sql', 'NoSql','docker','hadoop','power bi']
+tech = ['python','sklearn','tensorflow','Sql', 'NoSql','docker','hadoop','power bi', 'C#']
 
 ```
 
