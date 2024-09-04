@@ -2,7 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="230">
 
 
-<p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="70"></p>
+<p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a>  <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="50"></p>
 <p>Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png width="80"> 
 </p>
 
