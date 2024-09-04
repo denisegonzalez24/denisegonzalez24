@@ -3,7 +3,7 @@
 
 
 <h3> <p><em>Computer Enginner at <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="40"></p></h3>
-<h3> Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a> <img src=https://startupeable.com/directorio/wp-content/uploads/2021/03/d4face92a7abc37a414e0bc3acf4ff23ec588438.png width="80"> 
+<h3> Data Scientist at <a href="https://www.soyhenry.com/">SoyHenry</a> <img src=https://startupeable.com/directorio/wp-content/uploads/2021/03/d4face92a7abc37a414e0bc3acf4ff23ec588438.png width="40"> 
 </h3>
 
 
